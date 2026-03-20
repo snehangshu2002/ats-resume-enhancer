@@ -1,0 +1,35 @@
+# Credentials and sensitive files
+*.credentials.json
+credentials.json
+.env
+.env.local
+.env.*.local
+
+# n8n local files
+.n8n/
+config
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (if any)
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+AI Resume Optimizer & ATS Enhancer (Fixed).json
